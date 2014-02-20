@@ -1,4 +1,4 @@
-var nextTick = require('next-tick');
+var nextTick = require('timoxley-next-tick');
 /**
  * Parallel Class
  * @api public

@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [chemzqm/serial](http://github.com/chemzqm/serial). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/chemzqm-serial`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chemzqm/serial/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 [![Build Status](https://secure.travis-ci.org/chemzqm/serial.png)](http://travis-ci.org/chemzqm/serial)
 [![Coverage Status](https://coveralls.io/repos/chemzqm/serial/badge.png?branch=master)](https://coveralls.io/r/chemzqm/serial?branch=master)
